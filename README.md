@@ -1,16 +1,5 @@
 # travel
 
-A new Flutter project.
+![image](https://github.com/Dadaxon-07/travel_app/assets/122969603/fefefc0f-938b-4e26-bb00-0bc27fa3110b)  ![image](https://github.com/Dadaxon-07/travel_app/assets/122969603/7105574c-7550-4b59-9e88-a31eac67b77b)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
